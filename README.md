@@ -1,3 +1,3 @@
 # ADE Token Code
 
-see erc20.sol
+erc20.sol
