@@ -1,2 +1,2 @@
-# ADE-Token
-## ERC20 Token Code
+# ADE Token Code
+
